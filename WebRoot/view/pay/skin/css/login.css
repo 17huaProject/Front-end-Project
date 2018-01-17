@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+.form > input[type="text"],
+.form > input[type="password"]{
+	width:96% !important;
+	margin:0  auto 20px auto;
+}
+#content .pull-left{
+	color:#e73828;
+	margin:10px 0 0  12px;
+}
+
+#content .pull-right{
+	margin:0 10px 0 0 ;
+}

@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+#content .media{
+	padding:4px 0  4px 50px;
+	color:#fff;
+	background:url(../icons/bank_logo_gs.png) left center no-repeat;
+}
+#content .media > h4{
+	color:#fff;
+	line-height:1.6;
+}
+#content .tab2  li p > a{
+	color:#99a9ba;
+	font-size:14px;
+}
+#content  h2{
+	padding-right:10px;
+	line-height:1.6;
+}
+#content  h2 > small{
+	color:#fff;
+}
+#content .form-small > label{
+	color:#99a9ba !important;
+}
+#content .form-small > input{
+	margin-left:-50px;
+}
+
+#content .remind{
+	background:none;
+	font-weight:normal;
+	margin-top:10px;
+}
+#content .remind > span{
+	color:#666;
+	line-height:1.6;
+}
+
+
+/*.infor{
+	position:relative;
+}
+.record{
+	position:absolute;
+	right:20px;
+	top:20px;
+}*/

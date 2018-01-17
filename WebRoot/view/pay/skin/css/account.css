@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+input[placeholder]{ 
+	color:#999 !important; 
+} 
+
+::-webkit-input-placeholder { 
+	color: #999; 
+} 
+:-moz-placeholder { 
+	color: #999; 
+} 
+::-moz-placeholder { 
+	color: #999;
+} 
+:-ms-input-placeholder { 
+	color: #999; 
+} 
+#content .tab2  li > p  input{
+	text-align:right;
+	margin:2px 0 0 0;
+}

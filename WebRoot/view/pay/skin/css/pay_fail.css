@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.tab a{
+	width:80%; 
+	height:44px; 
+	font-family:"微软雅黑",Arial, Helvetica, sans-serif;
+	background:#4c93af; 
+	display:block; 
+	margin:0 auto;
+	border:none; 
+	color:#fff;
+	font-size:16px;
+	border-radius:10px;
+	line-height:44px;
+	text-align:center;
+}

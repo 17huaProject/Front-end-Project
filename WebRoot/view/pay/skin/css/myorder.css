@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.tab_content li{
+	width:23%; 
+	background:#99a9ba; 
+	display:block; 
+	color:#fff;
+	margin:10px 1%;
+	font-size:14px;
+	border-radius:10px;
+	float:left;
+	border:none;
+	text-align:center;
+	line-height:26px;
+}
+.tab_content li a{
+	font-size:14px;
+	display:block;
+	line-height:36px;
+	letter-spacing:1px;
+	font-weight:normal;
+	color:#fff;
+}
+.tab_content .active{
+	background:#e73828; 
+}
+#content .tab2 a li{
+	border-bottom:1px solid #eee;
+	padding:6px 10px;
+}
+
+
+#content .tab2 .nounderline  label{
+	color:#99a9ba !important; 
+}
+
+#content .tab2  li p > i{
+	background:url(../icons/more.png) 0 0px no-repeat !important;
+}

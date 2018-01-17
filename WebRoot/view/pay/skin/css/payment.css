@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#content .media {
+	background-size:10%;	
+	font-size:14px;
+	color:#777;
+}
+#content .media  h4{
+	font-size:15px;
+	color:#666;
+	margin:0 0 4px 0;
+}
+#content .media  small{
+	font-size:12px;
+	color:#999;
+	float:right;
+}
+
+
+#content .media.weixin{
+	padding-left:50px;
+	background:url(../icons/pay.png) 4px 16px  no-repeat;
+	background-size:30px;
+}
+#content .media.bank{
+	padding-left:50px;
+	background:url(../icons/pay.png) 4px -36px  no-repeat;
+	background-size:30px;
+}
+
+#content .media > p{
+	background-image:url(../icons/choice.png);
+	background-position: -20px center;
+	background-repeat: no-repeat;
+	height: 100%;
+	overflow: hidden;
+	text-indent: -9999em;
+	width: 20px;
+	position:absolute;
+	right:20px;
+	top:0;
+} 
+
+#content .media{
+	position:relative;
+}
+#content .media > p.active{
+	background-position:0 center;
+	background-image:url(../icons/choice.png);
+	background-repeat: no-repeat;
+	cursor: pointer;
+	height: 100%;
+	overflow: hidden;
+	text-indent: -9999em;
+	width: 20px;
+	position:absolute;
+	right:20px;
+	top:0;
+}

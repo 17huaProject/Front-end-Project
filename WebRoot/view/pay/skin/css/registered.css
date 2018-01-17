@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content{
+	margin:68px 10px 0 10px;
+}
+
+#content > .form.a{
+	color:#e73828;
+	line-height:3;
+	color:#666;
+	font-size:14px;
+}
+#content > p{
+	text-align:center;
+	color:#666;
+	line-height:3;
+}
+
+
+.form{
+	position:relative;
+}
+
+.form > input[type="text"]{
+	margin:8px 0 20px 0;	
+}
+
+
+
+.form > a{
+	position:absolute;
+	right:0;
+	top:0;
+	color:#e73828;
+}
+
+.form-code input[type="button"]{
+	top:35px !important;
+}
+

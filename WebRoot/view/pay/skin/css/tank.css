@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+#footer .tank i{
+	background:url(../icons/f_icons_active.png) no-repeat -38px;
+}
+#content .tab{
+	padding:0 10px;
+}
+#content .tab li{
+	width:30%; 
+	background:#93c7dc; 
+	display:block; 
+	color:#fff;
+	margin:10px 0;
+	font-size:14px;
+	border-radius:10px;
+	float:left;
+	border:none;
+	text-align:center;
+	line-height:26px;
+	margin-right: 5%;
+}
+#content .tab li a{
+	font-size:14px;
+	display:block;
+	line-height:36px;
+	letter-spacing:1px;
+	font-weight:normal;
+	color:#fff;
+}
+#content .tab .active{
+	background:#4c93af; 
+}
+#content .tab2 table,th,td{
+	border:1px solid #d8d8d8;
+}
+
+#content .tab3 .available {
+	width:50%;
+	float:left;
+}
+#content .tab3 .date{
+	width:50%;
+	float:right;
+}
+.tab3{
+	width:100%;
+	background:#fff;
+	border-top:2px solid #dadada;
+	border-bottom:2px solid #dadada;
+}
+.tab3 li{
+	padding:10px;
+	float:left;
+	width:50%;
+}
+.tab3 p{
+	padding-left:20px;
+	margin: 0 auto;
+	background-size:16px;
+	background-repeat:no-repeat;
+	color:#99a9ba;
+	background-position:left center; 
+}
+
+.available p{
+	width:104px;
+	background:url(../icons/p_icons.png) 0 0 /22px no-repeat;
+}
+.date p{
+	width:132px;
+	background:url(../icons/p_icons.png) 0 -54px /22px no-repeat;
+}
+.tab3 span{
+	font-size:14px;
+	color:#e73828;
+	text-align:center; 
+	margin:4px 0 10px 0;
+	display:block;
+}
+#content .tab3 button{
+	display:block;
+	width:100%;
+	height:40px;
+	background:#4c93af;  	
+	border:none; 
+	border-bottom:4px solid #4b7a8e; 
+	color:#fff;
+	margin-top:20px 0 10px 0;
+	font-size:14px;
+	border-radius:10px;
+	line-height:26px;
+	clear:both;
+}
+

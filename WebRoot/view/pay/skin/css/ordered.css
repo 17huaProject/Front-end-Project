@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+.tab_content li{
+	width:44%; 
+	background:#93c7dc; 
+	display:block; 
+	color:#fff;
+	margin:10px 3%;
+	font-size:14px;
+	border-radius:10px;
+	float:left;
+	border:none;
+	text-align:center;
+	line-height:26px;
+}
+.tab_content li a{
+	font-size:14px;
+	display:block;
+	line-height:36px;
+	letter-spacing:1px;
+	font-weight:normal;
+	color:#fff;
+}
+.tab_content .active{
+	background:#4c93af; 
+}
+#content .tab2 a li{
+	border-bottom:1px solid #eee;
+	padding:6px 10px;
+}
+
+#content .tab2 label{
+	color:#999 !important;
+}
+
+#content .tab2 .badge{
+	padding:5px 8px;
+}
+#content .tab2 label > h4{
+	font-size:14px;
+	color:#666;
+}
+#content .tab2 label > p,
+#content .tab2 label > h5{
+	font-size:13px;
+	color:#99a9ba; 
+	margin:8px 0 0 0;
+}
+
+#content .tab2 p > strong{
+	font-size:18px;
+	color:#e73828;
+}
+
+#content .tab2 p{
+	text-align:right;	 
+}
+#content .tab2  span,
+#content .tab2  em{
+	float:none !important;
+	display:block !important;
+	font-style:normal;
+	text-align:right !important;
+}
+#content .tab2 p > span{
+	font-size:13px;
+	color:#999; 
+}
+#content .tab2 p > em{
+	font-size:13px;
+	color:#99a9ba;
+}
+#content .tab2 em.em-strong{
+	color:#666;
+}
+
+
+#content .tab2 .nounderline  label{
+	color:#99a9ba !important; 
+}
+#content .tab2  li p > i{
+	background:url(../icons/more.png) 0 0px no-repeat !important;
+}
+
+
+

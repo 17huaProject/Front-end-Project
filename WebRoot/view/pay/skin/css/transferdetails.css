@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+#content .tab1 label {
+	width:100px;
+}
+#content .tab1 .nounderline{
+	padding:6px 10px !important;
+}

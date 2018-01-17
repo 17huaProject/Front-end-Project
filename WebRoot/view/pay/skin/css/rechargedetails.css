@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content .tab1 label {
+	width:120px;
+}
+#content .tab1 .nounderline{
+	padding:6px 10px !important;
+}
+#content .tab1 .number{
+	color:#999;
+}

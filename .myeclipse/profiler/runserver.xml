@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="app_preset_prof_preset_name">runserver Launch Configuration</entry>
+<entry key="app_preset_prof_preset_filter_s"/>
+<entry key="app_preset_prof_preset_filter_p">com.yqh.bsp.base.annotation.*,
+com.yqh.bsp.base.config.*,
+com.yqh.bsp.base.filter.*,
+com.yqh.bsp.base.kit.*,
+com.yqh.bsp.base.mvc.*,
+com.yqh.bsp.base.plugin.tablebind.*,
+com.yqh.bsp.base.quartz.*,
+com.yqh.bsp.base.response.*,
+com.yqh.bsp.base.route.*,
+com.yqh.bsp.base.shiro.*,
+com.yqh.bsp.business.mvc.account.*,
+com.yqh.bsp.business.mvc.art.*,
+com.yqh.bsp.business.mvc.combo.*,
+com.yqh.bsp.business.mvc.config.*,
+com.yqh.bsp.business.mvc.coupon.*,
+com.yqh.bsp.business.mvc.custom.*,
+com.yqh.bsp.business.mvc.event.*,
+com.yqh.bsp.business.mvc.faverate.*,
+com.yqh.bsp.business.mvc.order.*,
+com.yqh.bsp.business.mvc.pay.*,
+com.yqh.bsp.business.mvc.sms.*,
+com.yqh.bsp.business.mvc.stat.*,
+com.yqh.bsp.business.mvc.test.*,
+com.yqh.bsp.business.mvc.trade.*,
+com.yqh.bsp.business.mvc.user.*,
+com.yqh.bsp.business.mvc.venue.*,
+com.yqh.bsp.common.auth.*,
+com.yqh.bsp.common.dao.*,
+com.yqh.bsp.common.entity.*,
+com.yqh.bsp.common.enums.*,
+com.yqh.bsp.common.event.*,
+com.yqh.bsp.common.init.*,
+com.yqh.bsp.common.interceptor.*,
+com.yqh.bsp.common.model.*,
+com.yqh.bsp.common.quartz.*,
+com.yqh.bsp.common.solr.*,
+com.yqh.bsp.common.template.*,
+com.yqh.bsp.common.tools.*,
+com.yqh.bsp.thirdparty.sms.*,
+com.yqh.bsp.thirdparty.weixin.*,
+com.yqh.bsp.utils.*</entry>
+<entry key="app_preset_prof_preset_alloc_p">10</entry>
+<entry key="app_preset_"/>
+<entry key="app_preset_prof_preset_samplingRefreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_stacks_p">false</entry>
+<entry key="app_preset_prof_preset_roots_p">com.yqh.bsp.base.annotation.**
+com.yqh.bsp.base.config.**
+com.yqh.bsp.base.filter.**
+com.yqh.bsp.base.kit.**
+com.yqh.bsp.base.mvc.**
+com.yqh.bsp.base.plugin.tablebind.**
+com.yqh.bsp.base.quartz.**
+com.yqh.bsp.base.response.**
+com.yqh.bsp.base.route.**
+com.yqh.bsp.base.shiro.**
+com.yqh.bsp.business.mvc.account.**
+com.yqh.bsp.business.mvc.art.**
+com.yqh.bsp.business.mvc.combo.**
+com.yqh.bsp.business.mvc.config.**
+com.yqh.bsp.business.mvc.coupon.**
+com.yqh.bsp.business.mvc.custom.**
+com.yqh.bsp.business.mvc.event.**
+com.yqh.bsp.business.mvc.faverate.**
+com.yqh.bsp.business.mvc.order.**
+com.yqh.bsp.business.mvc.pay.**
+com.yqh.bsp.business.mvc.sms.**
+com.yqh.bsp.business.mvc.stat.**
+com.yqh.bsp.business.mvc.test.**
+com.yqh.bsp.business.mvc.trade.**
+com.yqh.bsp.business.mvc.user.**
+com.yqh.bsp.business.mvc.venue.**
+com.yqh.bsp.common.auth.**
+com.yqh.bsp.common.dao.**
+com.yqh.bsp.common.entity.**
+com.yqh.bsp.common.enums.**
+com.yqh.bsp.common.event.**
+com.yqh.bsp.common.init.**
+com.yqh.bsp.common.interceptor.**
+com.yqh.bsp.common.model.**
+com.yqh.bsp.common.quartz.**
+com.yqh.bsp.common.solr.**
+com.yqh.bsp.common.template.**
+com.yqh.bsp.common.tools.**
+com.yqh.bsp.thirdparty.sms.**
+com.yqh.bsp.thirdparty.weixin.**
+com.yqh.bsp.utils.**
+</entry>
+<entry key="profiler.settings.instrument.empty.methods">false</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">false</entry>
+<entry key="app_preset_prof_preset_samplingRate_s">100</entry>
+<entry key="app_preset_prof_preset_filterMode_s">true</entry>
+<entry key="app_preset_prof_preset_selector"/>
+<entry key="app_preset_prof_preset_refreshRate_s">1000</entry>
+<entry key="app_preset_prof_preset_runnables_p">true</entry>
+<entry key="app_preset_prof_preset_filterMode_p">false</entry>
+<entry key="app_preset_prof_preset_memoryMode_p">true</entry>
+</properties>

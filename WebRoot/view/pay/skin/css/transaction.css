@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.form > #btn[type="button"]{
+	top:10px;
+}
+/*.form > input[type="text"]{
+	margin:0;	
+}
+*/
+
+
+
+

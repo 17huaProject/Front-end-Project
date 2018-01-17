@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+#content .badge{
+	padding:0px 6px;
+}
+
+#content .tab2 date{
+	color:#999;
+	font-size:13px;
+	margin-left:10px;
+}
+#content .tab2 p{
+	font-size:13px;
+}
+
+
+#content .tab1 > li,
+#content .tab2 > li{
+	padding:6px 10px;
+}
+#content .tab1 span.number{
+	color:#666 !important;
+	font-size:13px;
+}
+
+@media( max-width:320px){
+	#content .tab2 date{
+		font-size:12px;
+	}
+	#content .tab2 .badge{
+		padding:1px 6px;
+	}
+}
+@media( min-width:375px){
+	#content .tab2 date{
+		font-size:13px;
+	}
+}
+

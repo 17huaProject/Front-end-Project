@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+#content .tab label{
+	color:#666;
+}
+#content .tab li .badge{
+	width:auto;
+	float:right;
+	padding:4px 10px;
+}
+#content .tab li > a{
+	float:left;
+	width:25%;
+}
+#content .tab li > a > i{
+	width:40px;
+	height:40px;
+}
+#content .tab li > a > p{
+	text-align:center;
+	color:#99a9ba;
+	font-size:12px;
+	margin:6px 0 0 0 ;
+}
+#content .tab li > a > i.weixin{	
+	background:url(../icons/r_icons.png) no-repeat;
+}
+#content .tab li > a > i.friends{	
+	background:url(../icons/r_icons.png) 0 -73px no-repeat;
+}
+#content .tab li > a > i.face{	
+	background:url(../icons/r_icons.png) 0 -147px no-repeat;
+}
+#content .tab li > a > i.copy{	
+	background:url(../icons/r_icons.png) 0 -220px no-repeat;
+}
